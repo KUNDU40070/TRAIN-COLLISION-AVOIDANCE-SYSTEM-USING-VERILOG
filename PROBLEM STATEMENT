@@ -1,0 +1,1 @@
+The problem arises when two train approaching towards each other on a single track. In our project we worked on identifying the status of the opposite train and processing only one train based upon their importance or priority. When two trains come on same track there comes the chance of a collision. To avoid these accidents, we allow only one train based upon their priority.
